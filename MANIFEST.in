@@ -1,0 +1,3 @@
+recursive-include prueba_ifs/Img *.png
+recursive-include prueba_ifs/Img *.ico
+recursive-include prueba_ifs/Filters *.txt
